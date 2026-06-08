@@ -58,7 +58,7 @@
     "@commitlint/config-conventional": "^20.4.3",
     "@eslint/js": "^9.39.4",
     "@vercel/ncc": "^0.38.4",
-    "commitlint": "^20.4.3",
+    "commitlint": "^21.0.2",
     "eslint": "^9.39.4",
     "eslint-plugin-json": "^4.0.1",
     "eslint-plugin-n": "^17.24.0",
